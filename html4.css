@@ -1,0 +1,46 @@
+#a{
+    list-style-type: upper-roman;
+    background-color: cadetblue;
+    padding: 30px;
+
+}
+#b{
+    background-color:black;
+    color: aliceblue;
+    list-style-position: outside;
+    list-style-type: circle;
+}
+#c{
+    list-style:circle inside;
+    color: white;
+}
+#content{
+    display:none;
+}
+:checked + #content{
+    display:block;
+}
+#h
+{
+    background-image: url("OIP5.jpg");
+    color: aliceblue;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: auto;
+    background-color: blanchedalmond;
+}
+.contact{
+    font-size: larger;
+    font-weight: 800;
+    font-style: oblique;
+    align-items: center;
+    text-align: center;
+}
+#u{
+    list-style-position: inside;
+}
