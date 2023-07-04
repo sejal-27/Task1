@@ -1,0 +1,26 @@
+.g1{
+    background-color:chocolate;
+    width:auto;
+    height:400px;
+}
+.g2{
+    background-color:rebeccapurple;
+    width:auto;
+    height:400px;
+}
+#frame1{
+    width: 450px;
+    height: 400px;
+    border: 9px black;
+}
+#frame2{
+    width: 450px;
+    height: 400px;
+}
+.game1{
+    font-size: x-large;
+    margin-top: 200px;  
+}
+.game2{
+    font-size: x-large;
+}
