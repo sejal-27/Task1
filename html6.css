@@ -1,0 +1,44 @@
+.navigation
+{
+    background-color:darkcyan ;
+    font-size: xx-large;
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: extra-expanded;
+    text-align:center;
+    color: bisque;
+    height: 50px ;
+}
+.navigation a{
+    color: whitesmoke;
+    padding: 14px 14px;
+}
+.navigation a:hover{
+    background-color: black;
+    color: cyan;
+}
+.navigation a.active{
+    background-color: gray;
+    color: white;
+}
+.main{
+    background-color: black;
+    color:aliceblue}
+    #a1{
+        color: cadetblue;
+    }
+    #a2{
+        color: cadetblue;
+    }
+    #a3{
+        color: cadetblue;
+    }
+    .reference{
+        font-size: large;
+        background-color: aquamarine;
+        color: black;
+    }
+    .reference a:hover{
+        color: aliceblue;
+        background-color: black;
+    }
